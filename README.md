@@ -1,5 +1,5 @@
 
-<img src="image/PuzzlePanda1024x1024.png" alt="PuzzlePandaのアイコン" title="アイコン" width=30%>
+<img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/PuzzlePanda1024x1024.png?raw=true" alt="PuzzlePandaのアイコン" title="アイコン" width=30%>
 #
 ### Welcome to PuzzlePanda
 [ このゲームについて ]  
