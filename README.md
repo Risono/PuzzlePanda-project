@@ -1,4 +1,7 @@
-## Welcome to PuzzlePanda
+#
+<img src="main/PuzzlePanda-project/image/PuzzlePanda1024x1024.png" alt="PuzzlePandaのアイコン" title="アイコン">
+
+### Welcome to PuzzlePanda
 [ このゲームについて ]  
 同じ種類のキャラクターを一筆書きの要領でひたすら選んで消していく気楽なゲームです。いろんな種類のBombも使えます。
 
