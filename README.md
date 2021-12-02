@@ -35,4 +35,4 @@
 ## Link
 ### リンク
 
-* <a href="https://twitter.com/home"><img src="docs/images/Twitter social icons - rounded square - blue.png" alt="Twitter" width="20" height="20"> </a> (サポート)
+* <a href="https://twitter.com/home"><img src="image/Twitter social icons - rounded square - blue.png" alt="Twitter" width="20" height="20"> </a> (サポート)
