@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to PuzzlePanda
+[ このゲームについて ]  
+同じ種類のキャラクターを一筆書きの要領でひたすら選んで消していく気楽なゲームです。いろんな種類のBombも使えます。
 
-You can use the [editor on GitHub](https://github.com/Risono/PuzzlePanda-project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[ 作者について ]  
+定年退職後にUnityを勉強しながら基本一人でスマホのゲームを作ってます。前作「Meteor」に続くリリース第二弾です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Privacy Policy
+#### プライバシーポリシー
 
-### Markdown
+[ 利用者情報の取得および利用 ]
+本アプリが利用者の個人情報を取得および利用することはありません。 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ 利用者情報の第三者提供 ] 
+本アプリが利用者の個人情報を第三者へ提供することはありません。 
 
-```markdown
-Syntax highlighted code block
+[ 広告配信ツール ] 
+本アプリは、Unity Technologies社の広告配信ツールを使用しており、Unity Technologies社が利用者の情報を自動取得する場合があります。 取得する情報、利用目的、第三者への提供等につきましては、広告配信事業者の<a href= "https://unity3d.com/legal/privacy-policy" >プライバシーポリシー</a>よりご確認ください。 
+## DownLoad
+### ダウンロード
+#### iPhoneはこちら
+<作成中>
+#
+#### Androidはこちら
+<作成中>
+#
+## Link
+### リンク
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Risono/PuzzlePanda-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* <a href="https://twitter.com/home"><img src="docs/images/Twitter social icons - rounded square - blue.png" alt="Twitter" width="20" height="20"> </a> (サポート)
