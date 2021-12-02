@@ -1,6 +1,5 @@
 
 <img src="image/PuzzlePanda1024x1024.png" alt="PuzzlePandaのアイコン" title="アイコン" width=30%>
-
 #
 ### Welcome to PuzzlePanda
 [ このゲームについて ]  
