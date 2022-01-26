@@ -1,13 +1,13 @@
 
 <img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/PuzzlePanda256x256.png?raw=true" alt="PuzzlePandaのアイコン" title="アイコン" width=70>
 
-#
 # Welcome to PuzzlePanda
 [ このゲームについて ]  
-同じ種類のキャラクターを一筆書きの要領でひたすら選んで消していく気楽なゲームです。いろんな種類のBombも使えます。
+同じ種類のキャラクターを一筆書きの要領でひたすら消していく気楽なゲームです。
+It's an easy game where you can erase the same kind of characters in a single stroke.Please Enjoy!
 
 [ 作者について ]  
-定年退職後にUnityを勉強しながら基本一人でスマホのゲームを作ってます。前作「Meteor」に続くリリース第二弾です。
+定年退職後にUnityを使って基本一人でスマホのゲームを作ってます。前作「Meteor」に続くリリース第二弾です。
 
 # Privacy Policy
 #### プライバシーポリシー
@@ -36,3 +36,5 @@
 ### リンク
 
 * <a href="https://twitter.com/daikuya_ri"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/Twitter%20social%20icons%20-%20square%20-%20blue.png?raw=true" alt="Twitter" width="20" height="20"> </a> (サポート)
+
+* <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> (Shooter Game)
