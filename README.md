@@ -23,15 +23,12 @@ It's an easy game where you can erase the same kind of characters in a single st
 ## DownLoad
 ### ダウンロード
 #### iPhoneはこちら
-<p style="text-indent:2em;"><a href="https://apps.apple.com/jp/app/puzzlepanda/id1586082415"><img src="https://github.com/Risono/risono.github.io/blob/main/image/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg?raw=true" alt="Download on the AppStore" width="120" height="40"></a></p>
+<p style="text-indent:2em;"><a href="https://apps.apple.com/jp/app/puzzlepanda/id1586082415"><img src="https://github.com/Risono/risono.github.io/blob/main/image/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg?raw=true" alt="Download on the AppStore" width="120" height="40"></a></p>  
 
-#
 #### Androidはこちら
-<作成中>
-#
+<作成中>  
+
 ## Link
 ### リンク
-
-* <a href="https://twitter.com/daikuya_ri"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/Twitter%20social%20icons%20-%20square%20-%20blue.png?raw=true" alt="Twitter" width="20" height="20"> </a> (サポート)
-
+* <a href="https://twitter.com/daikuya_ri"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/Twitter%20social%20icons%20-%20square%20-%20blue.png?raw=true" alt="Twitter" width="20" height="20"> </a> (サポート)  
 * <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> (Shooter Game)
