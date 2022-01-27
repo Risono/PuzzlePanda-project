@@ -23,9 +23,7 @@ It's an easy game where you can erase the same kind of characters in a single st
 ## DownLoad
 ### ダウンロード
 #### iPhoneはこちら
-
-<作成中>
-
+<p style="text-indent:2em;"><a href="https://apps.apple.com/jp/app/puzzlepanda/id1586082415"><img src="https://github.com/Risono/risono.github.io/blob/main/image/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg?raw=true" alt="Download on the AppStore" width="120" height="40"></a></p>
 #
 #### Androidはこちら
 
