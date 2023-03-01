@@ -33,5 +33,6 @@ It's an easy game where you can erase the same kind of characters in a single st
 ### リンク
 * <a href="https://twitter.com/daikuya_ri"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/Twitter%20social%20icons%20-%20square%20-%20blue.png?raw=true" alt="Twitter" width="20" height="20"> </a> (サポート)  
 
-* <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> (Shooter Game)
-* <a href="https://risono.github.io/LunaLanding-project"><img src="https://github.com/Risono/LunaLanding-project/blob/main/image/LL_iCon256.png?raw=true" alt="LunaLanding" width="20" height="20"> LunaLanding(Action)</a>
+* <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> Meteor(Shooter)</a>
+
+* <a href="https://risono.github.io/LunaLanding-project"><img src="https://github.com/Risono/LunaLanding-project/blob/main/image/LL_iCon256.png?raw=true" alt="LunaLanding" width="20" height="20"> </a>LunaLanding(Action)</a>
