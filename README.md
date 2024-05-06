@@ -23,11 +23,13 @@ It's an easy game where you can erase the same kind of characters in a single st
 ## DownLoad
 ### ダウンロード
 #### iPhoneはこちら
-<p style="text-indent:1.7em;"><a href="https://apps.apple.com/jp/app/puzzlepanda/id1586082415"><img src="https://github.com/Risono/risono.github.io/blob/main/image/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg?raw=true" alt="Download on the AppStore" width='126px' height='80px'></a></p>  
+<p style="text-indent:1.7em;"><a href="https://apps.apple.com/jp/app/puzzlepanda/id1586082415"><img src="https://github.com/Risono/risono.github.io/blob/main/image/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg?raw=true" alt="Download on the AppStore" width='126px' height='80px'></a></p> 
 
+#### Androidは公開停止中
+<!--
 #### Androidはこちら
 <p style="text-indent:1em;"><a href='https://play.google.com/store/apps/details?id=com.Daikuya.PuzzlePanda&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/us-en/badges/static/images/badges/en_badge_web_generic.png' width='148px' height='70px'/></a></p> 
-
+-->
 
 ## Link
 ### リンク
